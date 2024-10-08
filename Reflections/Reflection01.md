@@ -1,0 +1,1 @@
+In terms of Activity 1, I actually had a much simpler time completing it than I thought I would. It seemed daunting at first but in the end it really was just a series of commands. Learning languages is never easy, even if it is still english, I suppose.
