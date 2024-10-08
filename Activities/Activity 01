@@ -1,0 +1,15 @@
+first = "Luxurie"
+last = "Don"
+age = 21
+name = (first) + " " + (last)
+
+activity1 = " WOOHOO! THIS IS MY FIRST PYTHON ACTIVITY!! "
+activity1_lower = activity1.lower
+
+print(age)
+type(age)
+
+print(age + 10) #adding integers outputs a numerical value
+
+name = input("Hi, what is your name? ")
+print(f"Nice to meet you, {name}!")
